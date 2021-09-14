@@ -31,5 +31,5 @@ Starting galaxy role install process
 - filebeat (main) was installed successfully
 ```
 
-> Переписал playbook на использование ролей
+> Переписал playbook на использование ролей, создал теги для ролей
 
